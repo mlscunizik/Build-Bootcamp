@@ -27,8 +27,6 @@ Kingsley is a GitHub Campus Expert, an I4G (Ingressive for Good) Co-lead ambassa
 
 ## Learning materials 📹
 
--  **[Sign up and installation!](./1_Sign_up_and_installation.md)**
-
 -  **[What is Git?](./2_what_is_git.md)**
 
 -  **[What is Github?](./3_what_is_github.md)**
@@ -47,7 +45,7 @@ You assessment for the week is give a detailed explanation of what you understan
 
 ## How to Submit :paperclip:
 
-Go to the [Github Classroom](https://classroom.github.com/a/QNqx1v7q) for Week 1 and submit your assignment.
+Go to the [assessment](https://docs.google.com/forms/d/e/1FAIpQLSd0XE-ICAwX7_2byU7JvIMlvaWfzdCcp2fHCu_D_P8Ai-xdvg/viewform?usp=sf_link) for Week 1 and submit your assignment.
 
 
 ## Module Completion ✅
@@ -59,4 +57,4 @@ This module is complete when:
 
 ## Next Step ➡️
 
-Start learning now. Begin with [Sign up and installation](./1_Sign_up_and_installation.md)
+Start learning now. Begin with [What is Git?](./2_what_is_git.md)
