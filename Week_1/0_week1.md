@@ -18,7 +18,7 @@ Nehemiah Onyekachukwu Emmanuel and Nworie Kingsley will be your instructors for 
 ### [Nehemiah Onyekachukwu Emmanuel](https://github.com/devgenix):  
 <img src="https://avatars.githubusercontent.com/u/56418363?v=4" title="Nehemiah Onyekachukwu Emmanuel" width="150"></img>
 
-Nehemiah Onyekachukwu Emmanuel is a Backend Software Developer. Also; he is a Microsoft Learn Student Ambassadpor, I4G Campus Circle Lead Ambassador, Google Developer Student Clubs Team Lead, IEEE Student Branch Technical Director at Nnamdi Azikwe University. Over the span of two years, he has worked with clients and organisations to build secure and scalable web applications serving thousands of people.
+Nehemiah Onyekachukwu Emmanuel is a Backend Software Developer. Also; he is a Microsoft Learn Student Ambassador, I4G Campus Lead, Google Developer Student Clubs Team Lead, IEEE Student Branch Technical Director at Nnamdi Azikwe University. Over the span of two years, he has worked with clients and organisations to build secure and scalable web applications serving thousands of people.
 
 ### [Nworie Kingsley](https://github.com/nworiekingslee):  
 <img src="https://user-images.githubusercontent.com/55883854/153741632-f3ec9538-fdba-4737-ab1e-d95106986d1c.jpg" href="https://github.com/nworiekingslee" title="Nworie Kingsley" width="150"></img>
@@ -43,7 +43,7 @@ Kingsley is a GitHub Campus Expert, an I4G (Ingressive for Good) Co-lead ambassa
 
 ## Exercise 📝
 
-Go to [Assessments](./assessment.md) to see your assessment for the week.
+You assessment for the week is give a detailed explanation of what you understand by the topics and terms treated in this module.
 
 ## How to Submit :paperclip:
 
