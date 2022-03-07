@@ -43,11 +43,11 @@ Kingsley is a GitHub Campus Expert, an I4G (Ingressive for Good) Co-lead ambassa
 
 ## Exercise 📝
 
-If there's as assignment for a topic, the link to the assignment in Github Classroom will be provided.
+Go to [Assessments](./assessment.md) to see your assessment for the week.
 
 ## How to Submit :paperclip:
 
-Go to the [Github Classroom](https://classroom.github.com) for this Bootcamp and submit the specific assignment assigned for each topic as required by your tutuor.
+Go to the [Github Classroom](https://classroom.github.com/a/QNqx1v7q) for Week 1 and submit your assignment.
 
 
 ## Module Completion ✅
