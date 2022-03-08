@@ -64,6 +64,7 @@ Once that is done, open Terminal or command line and enter ```git clone``` follo
     <img src="https://images.ctfassets.net/nrgyaltdicpt/31ufabXrxuY0a0msQYWOUo/d8dc045fd128630eb0bfac07c8069884/Screen_Shot_2018-12-06_at_19.50.43.png" />
 
 ### Pull
+The git pull command is used to fetch and download content from a remote repository and immediately update the local repository with that content. Merging remote upstream changes into your local repository is a common task in Git-based collaboration work flows. The git pull command is actually a combination of two other commands, git fetch followed by git merge. In the first stage of operation git pull will execute a git fetch to get content from the remote repository to the local repository. Once the content is downloaded, git pull will enter a merge workflow where it will merge the updated content with the local content on your local repository.
 
 ### Fork
 
