@@ -2,7 +2,7 @@
 
 ## :star: Tutor | Course overview and learning outcomes 
 
-Tutor: [Nehemiah Onyekachukwu Emmanuel](https://github.com/devgenix) and [Nworie Kingsley](https://github.com/nworiekingslee)<br>
+Tutors: [Nehemiah Onyekachukwu Emmanuel](https://github.com/devgenix) and [Nworie Kingsley](https://github.com/nworiekingslee)<br>
 The goal of this course is help you understand commonly used terms about Github. 🚀
 
 ### Repository
