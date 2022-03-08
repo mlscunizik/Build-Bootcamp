@@ -49,22 +49,6 @@ GitHub Issues is a lightweight issue-tracking system that is available in all Gi
 
 By default, Issues are not enabled on forked repositories but they can be enabled in the repository settings.
 
-### Cloning
-
-Git Clone is a feature which is used to target an existing repository and create a clone, or copy of the target repository. In the command line or Terminal, the command is ```git clone``` followed by the link to the repository which can be found on Github. 
-
-<img src="https://static.javatpoint.com/tutorial/git/images/git-clone.png" />
-
-To copy a git repository link, go to the repo on Github and click on green button that says ```Code```
-In the dropdown box that appears, make sure ```https``` is selected, then click the icon next to the link to copy it. Note that it must end in **.git**
-
-<img src="https://itknowledgeexchange.techtarget.com/coffee-talk/files/2020/11/find-github-url.png" />
-
-Once that is done, open Terminal or command line and enter ```git clone``` followed by the link to the repo as this ```https://github.com/mlscunizik/Build-Bootcamp.git``` Such that you now have ```git clone https://github.com/mlscunizik/Build-Bootcamp.git``` 
-
-  * Cloning on terinal
-    <img src="https://images.ctfassets.net/nrgyaltdicpt/31ufabXrxuY0a0msQYWOUo/d8dc045fd128630eb0bfac07c8069884/Screen_Shot_2018-12-06_at_19.50.43.png" />
-
 ### Fork 
 There is no git fork command. From the command line you can clone a Git repo, you can pull from a Git repo and you can fetch updates from a Git repo, but there is no git fork command if you’re working with a standard Git installation.
 A fork in Git is simply a copy of an existing repository in which the new owner disconnects the codebase from previous repository.
@@ -82,9 +66,6 @@ In order to properly fork a repository, you have to first fork that repo on gith
 2.  If you are a member of Organisations with collaborative access, you'll be asked where you want to fork it to, if not it work create a fork immediately.
 3.  From there, clone the repo by clicking on ```Code``` and click the **copy** icon to cpoy the reomte url link you can use to clone the repo to your computer. ( See Cloning )
     <img src="https://docs.github.com/assets/cb-36330/images/help/repository/https-url-clone.png" />
-
-### Git Pull
-The ```git pull``` command is used to fetch and download content from a remote repository and immediately update the local repository with that content. Merging remote upstream changes into your local repository is a common task in Git-based collaboration work flows. The git pull command is actually a combination of two other commands, git fetch followed by git merge. In the first stage of operation git pull will execute a git fetch to get content from the remote repository to the local repository. Once the content is downloaded, git pull will enter a merge workflow where it will merge the updated content with the local content on your local repository.
 
 ### Pull Requests
 A pull request – also referred to as a merge request – is an event that takes place in software development when a contributor/developer is ready to begin the process of merging new code changes with the main project repository. It's called a pull request because you're asking the project to pull changes from your fork.
