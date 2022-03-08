@@ -47,6 +47,8 @@ GitHub Issues is a lightweight issue-tracking system that is available in all Gi
   
   You can tag people in Issues or assign them so that they are aware you are requesting help, add labels to keep issues organised, assign Issues to Projects, add links, make refereneces to file, to a line or lines of code and even add images. Issues support Markdown, which is what makes all of these possible. (Markdown is what this file is written in and what everything in this learning material for the Bootcamp is written in, so you can see that it's powerful.)
 
+By default, Issues are not enabled on forked repositories but they can be enabled in the repository settings.
+
 ### Cloning
 
 Git Clone is a feature which is used to target an existing repository and create a clone, or copy of the target repository. In the command line or Terminal, the command is ```git clone``` followed by the link to the repository which can be found on Github. 
@@ -63,17 +65,41 @@ Once that is done, open Terminal or command line and enter ```git clone``` follo
   * Cloning on terinal
     <img src="https://images.ctfassets.net/nrgyaltdicpt/31ufabXrxuY0a0msQYWOUo/d8dc045fd128630eb0bfac07c8069884/Screen_Shot_2018-12-06_at_19.50.43.png" />
 
-### Pull
-The git pull command is used to fetch and download content from a remote repository and immediately update the local repository with that content. Merging remote upstream changes into your local repository is a common task in Git-based collaboration work flows. The git pull command is actually a combination of two other commands, git fetch followed by git merge. In the first stage of operation git pull will execute a git fetch to get content from the remote repository to the local repository. Once the content is downloaded, git pull will enter a merge workflow where it will merge the updated content with the local content on your local repository.
+### Fork 
+There is no git fork command. From the command line you can clone a Git repo, you can pull from a Git repo and you can fetch updates from a Git repo, but there is no git fork command if you’re working with a standard Git installation.
+A fork in Git is simply a copy of an existing repository in which the new owner disconnects the codebase from previous repository.
+Any public Git repository can be forked or cloned. A fork creates a completely independent copy of Git repository. In contrast to a fork, a Git clone creates a linked copy that will continue to synchronize with the target repository.
 
-### Fork
+<img src="https://cdn.ttgtmedia.com/rms/onlineimages/cdo-git_clone_vs_fork-f_desktop.png" />
+
+In summary, a fork is a copy of a repository. Forking a repository allows you to freely experiment with changes and/or continue working without affecting the original project.
+Most times, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea. You can fork a repository to create a copy of the repository and make changes without affecting the orginal remote repository. 
+
+In order to properly fork a repository, you have to first fork that repo on github then clone it to your computer so that you can work on it locally and make changes. 
+
+1.  First go to the repo you want to fork and click on fork
+    <img src="https://docs.github.com/assets/cb-6294/images/help/repository/fork_button.jpg" />
+2.  If you are a member of Organisations with collaborative access, you'll be asked where you want to fork it to, if not it work create a fork immediately.
+3.  From there, clone the repo by clicking on ```Code``` and click the **copy** icon to cpoy the reomte url link you can use to clone the repo to your computer. ( See Cloning )
+    <img src="https://docs.github.com/assets/cb-36330/images/help/repository/https-url-clone.png" />
+
+### Git Pull
+The ```git pull``` command is used to fetch and download content from a remote repository and immediately update the local repository with that content. Merging remote upstream changes into your local repository is a common task in Git-based collaboration work flows. The git pull command is actually a combination of two other commands, git fetch followed by git merge. In the first stage of operation git pull will execute a git fetch to get content from the remote repository to the local repository. Once the content is downloaded, git pull will enter a merge workflow where it will merge the updated content with the local content on your local repository.
 
 ### Pull Requests
+A pull request – also referred to as a merge request – is an event that takes place in software development when a contributor/developer is ready to begin the process of merging new code changes with the main project repository. It's called a pull request because you're asking the project to pull changes from your fork.
+Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch. 
 
+You can only create pull requests on GitHub.com, with GitHub Desktop, in Codespaces, on GitHub Mobile, and when using GitHub CLI. 
+
+Always Pull before a Push and Pull request. If you are working one a project with others, or generally by best practices, it is adviced to always pull from a remote repository before pushing and creating a pull request. Doing so will ensure that your local copy is in sync with the remote repository. Remember, some other people have been pushing to the remote copy, and if you push before syncing up, you could end up with multiple heads or merge conflicts when you push.
+
+<img src="https://raw.githubusercontent.com/DXHeroes/knowledge-base-content/master/files/pull-request.jpeg" />
 
 ## Resources
 
 [A video explaining Github Issues](https://www.youtube.com/watch?v=yAPSbIHcDTw)
+[A video explaining Pull Requests](https://www.youtube.com/watch?v=For9VtrQx58)
 
 ### Next Step :arrow_right:
 Go to [Understanding Git terminologies](./7_Understanding_Git_terminlologies.md)
