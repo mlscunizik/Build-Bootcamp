@@ -27,6 +27,8 @@ Kingsley is a GitHub Campus Expert, an I4G (Ingressive for Good) Co-lead ambassa
 
 ## Learning materials 📹
 
+-  **[Signup and installation](./1_Sign_up_and_installation.md)**
+
 -  **[What is Git?](./2_what_is_git.md)**
 
 -  **[What is Github?](./3_what_is_github.md)**
@@ -57,4 +59,4 @@ This module is complete when:
 
 ## Next Step ➡️
 
-Start learning now. Begin with [What is Git?](./2_what_is_git.md)
+Start learning now. Begin with [Signup and installation](1_Sign_up_and_installation.md)
