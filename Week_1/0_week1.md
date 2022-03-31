@@ -18,7 +18,7 @@ Nehemiah Onyekachukwu Emmanuel and Nworie Kingsley will be your instructors for 
 ### [Nehemiah Onyekachukwu Emmanuel](https://github.com/devgenix):  
 <img src="https://avatars.githubusercontent.com/u/56418363?v=4" title="Nehemiah Onyekachukwu Emmanuel" width="150"></img>
 
-Nehemiah Onyekachukwu Emmanuel is a Backend Software Developer. Also; he is a Microsoft Learn Student Ambassadpor, I4G Campus Circle Lead Ambassador, Google Developer Student Clubs Team Lead, IEEE Student Branch Technical Director at Nnamdi Azikwe University. Over the span of two years, he has worked with clients and organisations to build secure and scalable web applications serving thousands of people.
+Nehemiah Onyekachukwu Emmanuel is a Backend Software Developer. Also; he is a Microsoft Learn Student Ambassador, I4G Campus Lead, Google Developer Student Clubs Team Lead, IEEE Student Branch Technical Director at Nnamdi Azikwe University. Over the span of two years, he has worked with clients and organisations to build secure and scalable web applications serving thousands of people.
 
 ### [Nworie Kingsley](https://github.com/nworiekingslee):  
 <img src="https://user-images.githubusercontent.com/55883854/153741632-f3ec9538-fdba-4737-ab1e-d95106986d1c.jpg" href="https://github.com/nworiekingslee" title="Nworie Kingsley" width="150"></img>
@@ -27,7 +27,7 @@ Kingsley is a GitHub Campus Expert, an I4G (Ingressive for Good) Co-lead ambassa
 
 ## Learning materials 📹
 
--  **[Sign up and installation!](./1_Sign_up_and_installation.md)**
+-  **[Signup and installation](./1_Sign_up_and_installation.md)**
 
 -  **[What is Git?](./2_what_is_git.md)**
 
@@ -43,11 +43,11 @@ Kingsley is a GitHub Campus Expert, an I4G (Ingressive for Good) Co-lead ambassa
 
 ## Exercise 📝
 
-If there's as assignment for a topic, the link to the assignment in Github Classroom will be provided.
+You assessment for the week is give a detailed explanation of what you understand by the topics and terms treated in this module.
 
 ## How to Submit :paperclip:
 
-Go to the [Github Classroom](https://classroom.github.com) for this Bootcamp and submit the specific assignment assigned for each topic as required by your tutuor.
+Go to the [assessment](https://docs.google.com/forms/d/e/1FAIpQLSd0XE-ICAwX7_2byU7JvIMlvaWfzdCcp2fHCu_D_P8Ai-xdvg/viewform?usp=sf_link) for Week 1 and submit your assignment.
 
 
 ## Module Completion ✅
@@ -59,4 +59,4 @@ This module is complete when:
 
 ## Next Step ➡️
 
-Start learning now. Begin with [Sign up and installation](./1_Sign_up_and_installation.md)
+Start learning now. Begin with [Signup and installation](1_Sign_up_and_installation.md)
