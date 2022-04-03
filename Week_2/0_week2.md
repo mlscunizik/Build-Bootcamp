@@ -23,10 +23,10 @@ Nehemiah Onyekachukwu Emmanuel is a Backend Software Developer. Also; he is a Mi
 
 Technophile || Tech Evangelist || Build Software || Teach || JS_Lover || CS Student || Movies || Games 
 
-### [Francis Njike](https://github.com/clashkid115):  
-<img src="https://avatars.githubusercontent.com/holytech" href="hhttps://github.com/holytech" title="Akeem Qudus" width="150"></img>
+### [Francis Njike](https://github.com/clashkid155):  
+<img src="https://drive.google.com/file/d/1FPc9l836ReHF0rfL1sduzDA8KpWx5rKX/view?usp=sharing" href="https://github.com/clashkid155" title="Francis Njike" width="150"></img>
 
-Technophile || Tech Evangelist || Build Software || Teach || JS_Lover || CS Student || Movies || Games 
+My name is Francis aka Steam the Conquer. I'm fairly vast in Python, Dart/Flutter and Go, i also happen to understand C++, sometimes.
 
 ## Learning materials 📹
 
