@@ -1,14 +1,14 @@
-# :flags: Setting up a Repository
+# :flags: Undoing Changes
 
 ## :star: Tutor | Course overview and learning outcomes 
 
-Tutor: [Akeem Qudus](https://github.com/holytech) and [Francis Njike](https://github.com/clashkid155)<br>
+Tutor: [Francis Njike](https://github.com/clashkid155) and [Nehemiah Onyekachukwu Emmanuel](https://github.com/devgenix)<br>
 The goal of this course is educate you on how you can undo changes to your repository for any reason you may want to.🚀
 
 
 
 ## 📚  Resources 
-* [A bullet summary of everything here](https://docs.google.com/presentation/d/1K_Fj9X1VdctS1RVYVdldnx0yh1n5YaPpYCPgiFDuZCg/edit?usp=sharing) 
+* [A bullet summary of everything here by Francis Njike](https://drive.google.com/file/d/1mvhC8n5deumHfhUrK-tiPqGBzGOsPuk0/view?usp=sharing) 
 
 ### Next Step :arrow_right:
 Go to your[Assessment](./assessment.md)
