@@ -11,4 +11,4 @@ The goal of this course is to teach you how you can save your work using git to 
 * [A bullet summary of everything here by Akeem Qudus](https://docs.google.com/presentation/d/1NqsCvwmnK7UzdDQ2eVHt5qKU2ZNp-EPyUg7E_SyV6jQ/edit?usp=sharing) 
 
 ### Next Step :arrow_right:
-Go to [Saving Changes](./3_Inspecting_a_repository.md)
+Go to [Inspecting a repository](./3_Inspecting_a_repository.md)

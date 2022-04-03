@@ -11,4 +11,4 @@ The goal of this course is to demonstrate the various ways you can gain a deeper
 * [A bullet summary of everything here by Francis Njike](https://drive.google.com/file/d/10WFE7ZPRxpZIawQaBV0NKFWD6c4LeNpM/view?usp=sharing) 
 
 ### Next Step :arrow_right:
-Go to [Saving Changes](./4_Undoing_Changes.md)
+Go to [Undoing Changes](./4_Undoing_Changes.md)
