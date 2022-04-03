@@ -7,12 +7,10 @@ By the end of this module, you should have:
 -   Understood how to deploy your repository to Github.
 -   Understood how to clone and work on a repository locally.
 -   Understood how to gain insights into your repository.
--   Created a Github account if you don't already ahve one.
--   Understand Basic Git and Github terminlogies
+-   Understood how to undo changes to your repository
+## :mortar_board: Your Tutors
 
-## :mortar_board: Your Tutors 
-
-Nehemiah Onyekachukwu Emmanuel and Akeem Qudus will be your instructors for this week.
+Nehemiah Onyekachukwu Emmanuel, Akeem Qudus and Francis Njike will be your instructors for this week.
 
 
 ### [Nehemiah Onyekachukwu Emmanuel](https://github.com/devgenix):  
@@ -21,6 +19,11 @@ Nehemiah Onyekachukwu Emmanuel and Akeem Qudus will be your instructors for this
 Nehemiah Onyekachukwu Emmanuel is a Backend Software Developer. Also; he is a Microsoft Learn Student Ambassador, I4G Campus Lead, Google Developer Student Clubs Team Lead, IEEE Student Branch Technical Director at Nnamdi Azikwe University. Over the span of two years, he has worked with clients and organisations to build secure and scalable web applications serving thousands of people.
 
 ### [Akeem Qudus](https://github.com/holytech):  
+<img src="https://avatars.githubusercontent.com/holytech" href="hhttps://github.com/holytech" title="Akeem Qudus" width="150"></img>
+
+Technophile || Tech Evangelist || Build Software || Teach || JS_Lover || CS Student || Movies || Games 
+
+### [Francis Njike](https://github.com/clashkid115):  
 <img src="https://avatars.githubusercontent.com/holytech" href="hhttps://github.com/holytech" title="Akeem Qudus" width="150"></img>
 
 Technophile || Tech Evangelist || Build Software || Teach || JS_Lover || CS Student || Movies || Games 
