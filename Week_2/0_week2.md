@@ -1,18 +1,18 @@
-# :pushpin: Week 1 | Getting Familiar
+# :pushpin: Week 2 | Gearing Up
 
 ## 🥅 Learning Goals
 
 By the end of this module, you should have:
--   Understood how to setup a repository
--   Understood What Github means
--   Understood The difference between Git and Github
--   What the Github Student Developer pack is.
+-   Understood how to setup a repository.
+-   Understood how to deploy your repository to Github.
+-   Understood how to clone and work on a repository locally.
+-   Understood how to gain insights into your repository.
 -   Created a Github account if you don't already ahve one.
 -   Understand Basic Git and Github terminlogies
 
 ## :mortar_board: Your Tutors 
 
-Nehemiah Onyekachukwu Emmanuel and Nworie Kingsley will be your instructors for this week.
+Nehemiah Onyekachukwu Emmanuel and Akeem Qudus will be your instructors for this week.
 
 
 ### [Nehemiah Onyekachukwu Emmanuel](https://github.com/devgenix):  
@@ -20,34 +20,26 @@ Nehemiah Onyekachukwu Emmanuel and Nworie Kingsley will be your instructors for 
 
 Nehemiah Onyekachukwu Emmanuel is a Backend Software Developer. Also; he is a Microsoft Learn Student Ambassador, I4G Campus Lead, Google Developer Student Clubs Team Lead, IEEE Student Branch Technical Director at Nnamdi Azikwe University. Over the span of two years, he has worked with clients and organisations to build secure and scalable web applications serving thousands of people.
 
-### [Nworie Kingsley](https://github.com/nworiekingslee):  
-<img src="https://user-images.githubusercontent.com/55883854/153741632-f3ec9538-fdba-4737-ab1e-d95106986d1c.jpg" href="https://github.com/nworiekingslee" title="Nworie Kingsley" width="150"></img>
+### [Akeem Qudus](https://github.com/holytech):  
+<img src="https://avatars.githubusercontent.com/holytech" href="hhttps://github.com/holytech" title="Akeem Qudus" width="150"></img>
 
-Kingsley is a GitHub Campus Expert, an I4G (Ingressive for Good) Co-lead ambassador at UNIZIK and also a freelance Brand Identity Designer. He has helped dozens of businesses build credibility and brand recognition by creating consistent visual language that represents them and connects with their audience. He has been freelancing for 4years and within this time he has worked with clients from within and outside Nigeria.
+Technophile || Tech Evangelist || Build Software || Teach || JS_Lover || CS Student || Movies || Games 
 
 ## Learning materials 📹
 
--  **[Signup and installation](./1_Sign_up_and_installation.md)**
+-  **[Setting up a repository](./1_Setting_up_a_Repository.md)**
 
--  **[What is Git?](./2_what_is_git.md)**
+-  **[Saving Changes](./2_Saving_changes.md)**
 
--  **[What is Github?](./3_what_is_github.md)**
+-  **[Undoing Changes](./4_Undoing_Changes.md)**
 
--  **[Why Git and Github is necessary for Developers](./4_Why_Git_and_Github_is_necessary_for_Developers.md)**
+<!-- ## Exercise 📝
 
--  **[Github for students. | Github Education](./5_Github_for_students.md)**
+You assessment for the week is create a repository, 
 
--  **[Understanding Github terminlologies](./6_Understanding_Github_terminlologies.md)**
-  
--  **[Understanding Git terminlologies](./7_Understanding_Git_terminlologies.md)**
+## How to Submit :paperclip: -->
 
-## Exercise 📝
-
-You assessment for the week is give a detailed explanation of what you understand by the topics and terms treated in this module.
-
-## How to Submit :paperclip:
-
-Go to the [assessment](https://docs.google.com/forms/d/e/1FAIpQLSd0XE-ICAwX7_2byU7JvIMlvaWfzdCcp2fHCu_D_P8Ai-xdvg/viewform?usp=sf_link) for Week 1 and submit your assignment.
+<!-- Go to the [assessment](https://docs.google.com/forms/d/e/1FAIpQLSd0XE-ICAwX7_2byU7JvIMlvaWfzdCcp2fHCu_D_P8Ai-xdvg/viewform?usp=sf_link) for Week 1 and submit your assignment. -->
 
 
 ## Module Completion ✅
@@ -55,8 +47,8 @@ Go to the [assessment](https://docs.google.com/forms/d/e/1FAIpQLSd0XE-ICAwX7_2by
 This module is complete when:
 -   You have completed all learning materials.
 -   You have submitted your assignment.
--   Your assignemnt is marked and you have passed..
+-   Your assignemnt is marked and you have passed.
 
 ## Next Step ➡️
 
-Start learning now. Begin with [Signup and installation](1_Sign_up_and_installation.md)
+Start learning now. Begin with [Setting up a repository](./1_Setting_up_a_Repository.md)
