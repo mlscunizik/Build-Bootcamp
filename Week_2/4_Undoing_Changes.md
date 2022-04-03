@@ -3,7 +3,7 @@
 ## :star: Tutor | Course overview and learning outcomes 
 
 Tutor: [Akeem Qudus](https://github.com/holytech) and [Francis Njike](https://github.com/clashkid155)<br>
-The goal of this course is to introduce you to get started using git and github comfortably to work effectively.🚀
+The goal of this course is educate you on how you can undo changes to your repository for any reason you may want to.🚀
 
 
 

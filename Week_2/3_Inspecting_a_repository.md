@@ -3,7 +3,7 @@
 ## :star: Tutor | Course overview and learning outcomes 
 
 Tutor: [Akeem Qudus](https://github.com/holytech) and [Francis Njike](https://github.com/clashkid155)<br>
-The goal of this course is to demonstrate the various ways you can gain a deeper understanding into your repository to understand what's happening under the hood.🚀
+The goal of this course is to demonstrate the various ways you can gain a deeper understanding into your repository to understand what's happening under the hood. 🚀
 
 
 
