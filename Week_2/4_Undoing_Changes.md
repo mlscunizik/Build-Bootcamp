@@ -11,5 +11,5 @@ The goal of this course is educate you on how you can undo changes to your repos
 * [A bullet summary of everything here by Francis Njike](https://drive.google.com/file/d/1mvhC8n5deumHfhUrK-tiPqGBzGOsPuk0/view?usp=sharing) 
 
 ### Next Steps :arrow_right:
-Go to your [Assessment](./assessment.md)
+Go to your [Assessment](./assessment.md)<br>
 To go to Week 3, go to [home](../README.md)
