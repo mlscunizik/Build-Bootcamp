@@ -17,8 +17,21 @@
 
 **Go to
   [Week 1](./Week_1/0_week1.md)**
-  
+
 **Go to your [Week 1 Assessment](https://github.com/mlscunizik/Build-Bootcamp/blob/main/Week_1/7_Understanding_Git_terminlologies.md#week-1-wrap-up)**
+
+**Go to
+  [Week 2](./Week_2/0_week2.md)**
+**Go to your [Week 2 Assessment](https://github.com/mlscunizik/Build-Bootcamp/blob/main/Week_1/7_Understanding_Git_terminlologies.md#week-1-wrap-up)**
+
+**Go to
+  [Week 3](./Week_3/0_week3.md)**
+**Go to your [Week 3 Assessment](https://github.com/mlscunizik/Build-Bootcamp/blob/main/Week_1/7_Understanding_Git_terminlologies.md#week-1-wrap-up)**
+
+**Go to
+  [Week 4](./Week_4/0_week4.md)**
+**Go to your [Week 4 Assessment](https://github.com/mlscunizik/Build-Bootcamp/blob/main/Week_1/7_Understanding_Git_terminlologies.md#week-1-wrap-up)**
+
 
 </details>
 
