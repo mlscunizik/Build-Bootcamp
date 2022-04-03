@@ -12,6 +12,8 @@
 
 <h1 align="center" ><b>Table of Contents<b></h1>
 
+
+
 <details align="center" >
 <summary> <h2>Week 1 | Getting familiar</h2> </summary>
 
@@ -20,13 +22,35 @@
 
 **Go to your [Week 1 Assessment](https://github.com/mlscunizik/Build-Bootcamp/blob/main/Week_1/7_Understanding_Git_terminlologies.md#week-1-wrap-up)**
 
+</details>
+
+
+
+<details align="center" >
+<summary> <h2>Week 2 | Gearing up</h2> </summary>
+
 **Go to
   [Week 2](./Week_2/0_week2.md)**
 **Go to your [Week 2 Assessment](https://github.com/mlscunizik/Build-Bootcamp/blob/main/Week_1/7_Understanding_Git_terminlologies.md#week-1-wrap-up)**
 
+</details>
+
+
+
+<details align="center" >
+<summary> <h2>Week 3 | Going further</h2> </summary>
+
 **Go to
   [Week 3](./Week_3/0_week3.md)**
 **Go to your [Week 3 Assessment](https://github.com/mlscunizik/Build-Bootcamp/blob/main/Week_1/7_Understanding_Git_terminlologies.md#week-1-wrap-up)**
+
+
+</details>
+
+
+
+<details align="center" >
+<summary> <h2>Week 4 | Grub down</h2> </summary>
 
 **Go to
   [Week 4](./Week_4/0_week4.md)**
