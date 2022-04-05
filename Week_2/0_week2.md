@@ -59,4 +59,4 @@ This module is complete when:
 
 ## Next Step ➡️
 
-Start learning now. Begin with [Setting up a repository](./1_setting_up_git.md)
+Start learning now. Begin with [Setting up Git](./1_setting_up_git.md)
