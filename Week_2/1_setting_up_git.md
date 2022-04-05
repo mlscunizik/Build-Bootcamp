@@ -18,7 +18,7 @@ For a further guide on how to install Git on Windows, Mac or Linux; check [here]
 
 **The first thing you should do after installing Git on your system is to configure your git username and email address.** Git associate your identity with every commit you make. In order to perform git operations, Git needs to know which user is making those operations. For example, you cannot push to a private repository belonging to someones else if Git doesn't know that you have permissions to access that repository. 
 
-Git allows you to set a global and per-project username and email address. You can set or change your git identity using the git config command. Changes only affect future commits. The name and email associated with the commits you made prior to the change are not affected.
+Git allows you to set a global and per-project username and email address. You can set or change your git identity using the git config command. Changes only affect future commits. The name and email associated with the commits you made prior to the change are not affected. <br>
 
 ### Setting Global Git Username and Email
 The global git username and email address are associated with commits on all repositories on your system that don’t have repository-specific values. This means that for every repository you work with on your laptop the global user identity you set is what is used to store information about commits, unless otherwise specified in a specific repository.<br>
@@ -44,7 +44,7 @@ Which should give the output;<br>
 user.email=emmanueln644@gmail.com
 user.name=devgenix
 ```
-<hr>
+
 ### Setting Git Username and Email for a Single Repository
 If you want to use a different username or email address for a specific repository, run the git config command without the ```--global``` option from within the repository directory or use ```--local``` instead.<br><br>
 
