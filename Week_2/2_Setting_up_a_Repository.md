@@ -66,7 +66,35 @@ Now to clone this repository, you would navigate to a directory(or a folder) whe
 ```
 git clone https://github.com/mlscunizik/Build-Bootcamp.git
 ```
-Hit enter to clone the repository. If this is your first time setting up Git on your computer, you would be prompted to enter your username and password. If you missed it, recap on how to configure Git [here](./1_setting_up_git.md)
+Hit enter to clone the repository. If this is your first time setting up Git on your computer, there are a few things to configure. Read about it [here](./1_setting_up_git.md). <br>
+If you are cloning a private repository, you'll be asked to enter your github username and password because Git needs to know if you have access to that repository. On Windows, if you are using Git Bash, you'll be prompted to open your browser and login. Git Bash would then save your credentials for further use. <br>
+That brings us to the next thing, continuing **Git Config**<br>
+
+## Git Config - Continued
+
+Before going ahead to enter your github username and password, know that Github depreceated plain text passwords for tokens as a means of authentication since August 13, 2021, at 09:00 PST. You'll need to generate your token and store it safely because once generated on the Githubs' website you can't access it to copy it again. This is a security measure.<br>
+These tokens are long and it's not adviced you store it carelessly, Git has something called Github Credentials helper that can store your authentication information for further use, so that you don't have to put in your username and token each time you pull/clone/push.<br><br>
+
+To generate your token, Go to https://github.com and click on your profile picture at the top right corner of the page. <br>
+<img src="https://github.com/devgenix/Photo-Backup/blob/main/Build%20Bootcamp/Screenshot%20from%202022-04-05%2011-28-51.png?raw=true" /><br><br>
+
+Next, click on ```Settings```<br>
+<img src="https://github.com/devgenix/Photo-Backup/blob/main/Build%20Bootcamp/Screenshot%20from%202022-04-05%2011-28-57.png?raw=true" /><br><br>
+
+You'll be presented with your settings page, scroll down and click on ```Developer Settings```<br>
+<img src="https://github.com/devgenix/Photo-Backup/blob/main/Build%20Bootcamp/Screenshot%20from%202022-04-05%2011-29-33.png?raw=true" /><br>
+<img src="https://github.com/devgenix/Photo-Backup/blob/main/Build%20Bootcamp/Screenshot%20from%202022-04-05%2011-29-41.png?raw=true" /><br><br>
+
+Click on ```Personal Access Tokens```<br>
+<img src="https://github.com/devgenix/Photo-Backup/blob/main/Build%20Bootcamp/Screenshot%20from%202022-04-05%2011-30-22.png?raw=true" /><br><br>
+
+Click on ```Generate new token```<br>
+<img src="https://github.com/devgenix/Photo-Backup/blob/main/Build%20Bootcamp/Screenshot%20from%202022-04-05%2011-30-34.png?raw=true" /><br><br>
+
+If you are asked to confirm your password, enter your password.<br>
+<img src="https://github.com/devgenix/Photo-Backup/blob/main/Build%20Bootcamp/Screenshot%20from%202022-04-05%2011-30-40.png?raw=true" /><br><br>
+
+
 
 
 ## 📚  Resources 
