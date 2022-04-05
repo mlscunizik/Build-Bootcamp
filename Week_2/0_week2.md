@@ -3,11 +3,12 @@
 ## 🥅 Learning Goals
 
 By the end of this module, you should have:
+-   Understood how to set up Git locally on your computer.
 -   Understood how to setup a repository.
 -   Understood how to deploy your repository to Github.
 -   Understood how to clone and work on a repository locally.
 -   Understood how to gain insights into your repository.
--   Understood how to undo changes to your repository
+-   Understood how to undo changes to your repository.
 ## :mortar_board: Your Tutors
 
 Nehemiah Onyekachukwu Emmanuel, Akeem Qudus and Francis Njike will be your instructors for this week.
@@ -29,6 +30,8 @@ Technophile || Tech Evangelist || Build Software || Teach || JS_Lover || CS Stud
 My name is Francis aka Steam the Conquer. I'm fairly vast in Python, Dart/Flutter and Go, i also happen to understand C++, sometimes.
 
 ## Learning materials 📹
+
+-  **[Setting up Git](./1_setting_up_git.md)**
 
 -  **[Setting up a repository](./1_Setting_up_a_Repository.md)**
 
@@ -54,4 +57,4 @@ This module is complete when:
 
 ## Next Step ➡️
 
-Start learning now. Begin with [Setting up a repository](./1_Setting_up_a_Repository.md)
+Start learning now. Begin with [Setting up a repository](./1_setting_up_git.md)
