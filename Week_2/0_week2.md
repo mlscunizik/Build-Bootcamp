@@ -33,11 +33,13 @@ My name is Francis aka Steam the Conquer. I'm fairly vast in Python, Dart/Flutte
 
 -  **[Setting up Git](./1_setting_up_git.md)**
 
--  **[Setting up a repository](./1_Setting_up_a_Repository.md)**
+-  **[Setting up a repository](./2_Setting_up_a_Repository.md)**
 
--  **[Saving Changes](./2_Saving_changes.md)**
+-  **[Saving Changes](./3_Saving_changes.md)**
 
--  **[Undoing Changes](./4_Undoing_Changes.md)**
+-  **[Inspecting a repository](4_Inspecting_a_repository.md)**
+
+-  **[Undoing Changes](./5_Undoing_Changes.md)**
 
 <!-- ## Exercise 📝
 
