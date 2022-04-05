@@ -9,7 +9,6 @@ The goal of this course is to introduce you to get started using git and github 
 We'll go cover the following:
 - Git init
 - Git clone
-- Git Config
 
 ## Git Init
 To create a new repo, you'll use the ```git init``` command. Git init is a one-time command you use during the initial setup of a new repo. Executing this command will create a new .git subdirectory in your current working directory and makes it possible to start recording revisions of the project. This will also create a new main branch. Git init is used when you want to create a repository from scratch, in an empty project folder or an existing project folder. To create a repository with git init; <br><br>
@@ -67,10 +66,7 @@ Now to clone this repository, you would navigate to a directory(or a folder) whe
 ```
 git clone https://github.com/mlscunizik/Build-Bootcamp.git
 ```
-Hit enter to clone the repository. If this is your first time setting up Git on your computer, you would be prompted to enter your username and password. This brings us to the next part, **Git Config**
-
-## Git Config
-
+Hit enter to clone the repository. If this is your first time setting up Git on your computer, you would be prompted to enter your username and password. If you missed it, recap on how to configure Git [here])(./1_setting_up_git.md)
 
 
 ## 📚  Resources 
