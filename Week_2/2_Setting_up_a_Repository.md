@@ -66,7 +66,7 @@ Now to clone this repository, you would navigate to a directory(or a folder) whe
 ```
 git clone https://github.com/mlscunizik/Build-Bootcamp.git
 ```
-Hit enter to clone the repository. If this is your first time setting up Git on your computer, you would be prompted to enter your username and password. If you missed it, recap on how to configure Git [here])(./1_setting_up_git.md)
+Hit enter to clone the repository. If this is your first time setting up Git on your computer, you would be prompted to enter your username and password. If you missed it, recap on how to configure Git [here](./1_setting_up_git.md)
 
 
 ## 📚  Resources 
