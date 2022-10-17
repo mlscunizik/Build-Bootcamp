@@ -10,6 +10,8 @@
 
 <br>
 
+# To start, click [here](./Week_1/0_week1.md)
+
 <h1 align="center" ><b>Table of Contents<b></h1>
 
 
@@ -61,6 +63,7 @@
 </details>
 
 <br>
+
 
 For a guide on Assessments, click
 [here](./assessments.md)
